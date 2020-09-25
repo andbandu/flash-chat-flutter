@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886109788726",
+    "firebase_url": "https://flash-chat-b989a.firebaseio.com",
+    "project_id": "flash-chat-b989a",
+    "storage_bucket": "flash-chat-b989a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886109788726:android:50793a018d7292fae41697",
+        "android_client_info": {
+          "package_name": "ghantahra.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886109788726-8tcmlkurqn91pr7r4hqkmf2ul37tug11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0LvdiefB8hI8dcEv8pmVnDujG5bf4CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886109788726-8tcmlkurqn91pr7r4hqkmf2ul37tug11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
